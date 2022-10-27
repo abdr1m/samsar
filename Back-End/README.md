@@ -1,5 +1,5 @@
 # Semsar
-**A E-commerce platform dedicated for Mauritanians**
+**An E-commerce platform dedicated for Mauritanians**
 
 
 ## Database diagram
