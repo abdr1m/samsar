@@ -9,6 +9,8 @@
 
 ## Web app
 
+https://abdr1m.github.io/semsar-ui
+
 [light_ui]: ./UI/light_mode.png "Light Sketch"
 ![][light_ui]
 
